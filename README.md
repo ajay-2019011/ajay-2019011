@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **MERN Stack for Web Development**
 
+- 🌱 I’m a final year student currently pursuing **CSE at IIITDM Jabalpur**
+
 - 📫 How to reach me **ajaysheoran2019011@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_C7Bc61r1E3BYHkKgpXh8Tfsbo8e_QdR/view?usp=sharing](https://drive.google.com/file/d/1_C7Bc61r1E3BYHkKgpXh8Tfsbo8e_QdR/view?usp=sharing)
