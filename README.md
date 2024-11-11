@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ajay Sheoran</h1>
-<h3 align="center">An aspiring web developer with good analytical skills. Passionate about creating useful websites and writing efficient code.</h3>
+<h3 align="center">An aspiring web developer with good analytical skills. Passionate about working on impactful products and writing efficient code.</h3>
 
-- 🔭 I’m currently working on **MERN Stack for Web Development**
-
-- 🌱 I’m a final year student currently pursuing **CSE at IIITDM Jabalpur**
-
-- 📫 How to reach me **ajaysheoran2019011@gmail.com**
+- 📫 How to reach me **ajaysheoran418@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_C7Bc61r1E3BYHkKgpXh8Tfsbo8e_QdR/view?usp=sharing](https://drive.google.com/file/d/1_C7Bc61r1E3BYHkKgpXh8Tfsbo8e_QdR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajay-sheoran-6bb37a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-sheoran-6bb37a220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay2019011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-sheoran-6bb37a220" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a2019011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a2019011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajaysheoran2019011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaysheoran2019011" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/wolverine102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaysheoran2019011" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@2019011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2019011" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajaysheoran2019011/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaysheoran2019011/profile" height="30" width="40" /></a>
 </p>
